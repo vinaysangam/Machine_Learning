@@ -80,8 +80,6 @@ Planned future expansions:
 ---
 
 ## 👤 Author
-**Vinay Sangam**  
-Machine Learning & Data Engineer
+**Vinay Sangam**
 
----
-If this learning journey inspires you, feel free to star ⭐ the repository!
+Data & AI Engineer
