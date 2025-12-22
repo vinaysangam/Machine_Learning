@@ -1,77 +1,116 @@
 # 🤖 Machine Learning Portfolio Repository
 
-This repository serves as a consolidated hub for my Machine Learning work, learning progression, and hands-on experimentation. It is structured to reflect a disciplined approach to building ML capability — from fundamentals, to applied problem solving, to scalable project execution.
+This repository serves as a consolidated hub for my Machine Learning work, structured learning, and hands-on experimentation.  
+It is now organized based on **core machine learning categories**, reflecting a professional and scalable approach to ML development.
 
 The goal of this repository is to demonstrate:
-- Strong understanding of ML concepts
-- Practical, implementation-driven learning
+- Strong understanding of ML theory & practice
+- Structured category-wise learning
 - Clean engineering discipline
-- Foundation for future advanced AI work
+- A continuously evolving Machine Learning knowledge base
 
 ---
 
 ## 📂 Repository Structure
 
-### 1️⃣ 10_Days_of_ML
-A structured 10-day learning journey covering core Machine Learning concepts with hands-on implementation.
+### 1️⃣ Supervised_Learning
+Implementation of supervised learning algorithms grouped logically into:
+```
+Supervised_Learning
+│
+├── Regression
+│   ├── Linear_Regression
+│   ├── Polynomial_Regression
+│
+└── Classification
+    ├── Logistic_Regression
+    ├── SVM
+    ├── KNN
+```
+Each section progressively includes:
+- Concept explanation
+- Notebook implementations
+- Model evaluation
+- Insights & learnings
 
-Includes:
-- ML fundamentals
+---
+
+### 2️⃣ Unsupervised_Learning (Planned)
+A dedicated section for algorithms that learn from **unlabeled data**, such as:
+- Clustering
+- Dimensionality Reduction
+- Anomaly Detection
+
+---
+
+### 3️⃣ Semi_Supervised_Learning (Planned)
+A hybrid learning paradigm leveraging **both labeled and unlabeled data**, suitable when labels are limited or expensive to obtain.
+
+---
+
+### 4️⃣ Self_Supervised_Learning (Planned)
+Modern learning paradigm where models **generate supervision from the data itself**, widely used in NLP and Computer Vision representation learning.
+
+---
+
+### 5️⃣ Reinforcement_Learning (Planned)
+A section focused on training agents through reward‑based interaction environments.
+
+---
+
+### 6️⃣ 10_Days_of_ML
+A structured 10‑day Machine Learning learning sprint showcasing:
+- Foundations of ML
 - Regression & Classification
 - Model evaluation & tuning
-- Tree-based models
+- Tree-based learning
 - Real dataset case study
-- Final reflections & learnings
+- Final reflections
 
-Each notebook focuses on clarity, explanation, and practical application.
+This remains as a learning archive demonstrating growth and consistency.
 
 ---
 
-### 2️⃣ Datasets
-A centralized folder for datasets used across ML experiments and projects.
-
-Purposes:
+### 7️⃣ Datasets
+Centralized dataset storage supporting experiments and projects to ensure:
 - Easy reuse
-- Consistent experimentation
-- Reproducible workflows
+- Consistency
+- Reproducibility
 
 ---
 
-### 3️⃣ Logistic_Regression
-A focused implementation exploring Logistic Regression in depth.
+## 🚀 Roadmap
 
-Includes:
-- Data exploration
-- Feature engineering
-- Model training
-- Evaluation (Confusion Matrix, Precision/Recall, F1, ROC-AUC)
-- Interpretation and learnings
-
-This demonstrates foundational supervised classification concepts.
-
----
-
-## 🚀 Future Roadmap
-
-This repository will continue to expand with structured additions including:
+This repository will continue to expand with:
 
 ### 🟢 Supervised Learning
-- Support Vector Machines (SVM)
-- KNN
-- Naive Bayes
+- Decision Trees
+- Random Forest
 - Gradient Boosting / XGBoost
+- Advanced feature engineering
 - Neural Networks (Intro)
 
 ### 🔵 Unsupervised Learning
-- Clustering (K-Means, DBSCAN, Hierarchical)
-- Dimensionality Reduction (PCA, t-SNE)
-- Anomaly Detection
+- K-Means / DBSCAN / Hierarchical
+- PCA / t‑SNE
+- Outlier Detection
 
-### ⚙️ Advanced Topics
-- Model Pipelines
-- Feature Engineering Strategies
-- Deployment (Flask / FastAPI)
-- MLOps concepts
+### 🧠 Reinforcement Learning
+- RL fundamentals
+- Gym environments
+- Q‑Learning / DQN
+
+### 🧬 Semi & Self Supervised
+- Pseudo‑Labeling
+- Label Propagation
+- Autoencoders
+- Contrastive Learning Intros
+
+### ⚙️ Engineering Focus
+- Pipelines
+- Deployment readiness
+- Experiment tracking
+- Scalable ML best practices
 
 ---
 
@@ -80,17 +119,17 @@ This repository will continue to expand with structured additions including:
 - Jupyter / Colab
 - Pandas
 - NumPy
-- Scikit-learn
+- Scikit‑learn
 - Matplotlib / Seaborn
 
 ---
 
 ## 🎯 Objective
 This repository reflects:
-✔ Continuous learning  
-✔ Professional engineering mindset  
-✔ Practical ML application  
-✔ Growing AI capability  
+✔ Structured ML learning  
+✔ Professional repo engineering  
+✔ Practical implementation focus  
+✔ Continuous growth mindset  
 
 ---
 
