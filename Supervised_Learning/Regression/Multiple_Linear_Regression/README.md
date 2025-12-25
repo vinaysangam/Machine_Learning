@@ -27,7 +27,7 @@ Where:
 Simple regression only evaluates one factor at a time.  
 Real world outcomes depend on **multiple drivers simultaneously**.
 
-Multiple Regression helps:
+Multiple Regression helps:  
 ✔ Measure combined influence  
 ✔ Separate individual effects  
 ✔ Control inter‑dependencies  
@@ -175,7 +175,7 @@ When predictors are highly correlated:
 ---
 
 ## 💼 Business Value
-Multiple Linear Regression enables:
+Multiple Linear Regression enables:  
 ✔ Marketing ROI evaluation  
 ✔ Budget optimization  
 ✔ Sales forecasting  
@@ -190,7 +190,7 @@ Leadership gains:
 ---
 
 ## 🚫 When NOT to Use MLR
-Avoid when:
+Avoid when:  
 ❌ Relationships are nonlinear  
 ❌ Strong multicollinearity exists  
 ❌ Too many predictors for dataset size  
@@ -212,7 +212,7 @@ Multiple Linear Regression is:
 - Business‑friendly  
 - Foundation for advanced ML models  
 
-It supports:
+It supports:  
 📌 Understanding  
 📌 Prediction  
 📌 Explainability  
