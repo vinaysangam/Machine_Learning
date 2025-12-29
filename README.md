@@ -19,7 +19,8 @@ Implementation of supervised learning algorithms grouped logically into:
 Supervised_Learning
 │
 ├── Regression
-│   ├── Linear_Regression
+|   ├── Simple_Linear_Regression
+│   ├── Multiple_Linear_Regression
 │   ├── Polynomial_Regression
 │
 └── Classification
