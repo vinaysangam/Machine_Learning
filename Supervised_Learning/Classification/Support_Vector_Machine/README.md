@@ -7,7 +7,7 @@ This module under **Machine_Learning → Supervised_Learning → Classification 
 - **Linear SVM Email Spam Classifier**
 - **Non‑Linear SVM Email Spam Classifier**
 
-Both projects are designed with:
+Both projects are designed with:  
 ✔ Strong theoretical grounding  
 ✔ Clean engineering discipline  
 ✔ Business-focused interpretation  
@@ -115,7 +115,7 @@ SVM is widely adopted across industries such as:
 - Document classification
 - Healthcare diagnostics
 
-Its strengths:
+Its strengths:  
 ✔ Interpretability  
 ✔ Reliability  
 ✔ Strong generalization  
