@@ -59,7 +59,8 @@ A regression model aims to:
 ```
 Regression
 │
-├── Linear_Regression
+├── Simple_Linear_Regression
+├── Multiple_Linear_Regression
 └── Polynomial_Regression
 ```
 Additional models such as Ridge, Lasso, Elastic Net and advanced regression techniques may be added progressively.
