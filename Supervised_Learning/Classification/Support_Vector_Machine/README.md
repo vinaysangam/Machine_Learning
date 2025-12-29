@@ -25,7 +25,6 @@ Support_Vector_Machine
 ```
 
 Each notebook contains:
-- End‑to‑end pipeline
 - Feature engineering
 - Model training
 - Evaluation & interpretation
