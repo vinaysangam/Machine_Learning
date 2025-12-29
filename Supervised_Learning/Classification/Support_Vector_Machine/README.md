@@ -21,10 +21,7 @@ Both projects are designed with:
 Support_Vector_Machine
 │
 ├── Linear_SVM_Email_Spam_Classifier
-│   └── Linear_SVM_Email_Spam_Classifier_Enhanced.ipynb
-│
 └── Non_Linear_SVM_Email_Spam_Classifier
-    └── Non_Linear_SVM_Email_Spam_Classifier_Enhanced.ipynb
 ```
 
 Each notebook contains:
