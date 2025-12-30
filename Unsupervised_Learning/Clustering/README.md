@@ -64,7 +64,7 @@ This ensures the models are not just built — but validated and explained.
 ---
 
 ## 🚀 Outcome
-This module demonstrates:
+This module demonstrates:  
 ✔ Strong understanding of unsupervised learning  
 ✔ Professional ML engineering approach  
 ✔ Reliable evaluation mindset  

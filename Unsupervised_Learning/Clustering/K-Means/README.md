@@ -66,7 +66,7 @@ Where applicable, business / analytical context is discussed to show **why the c
 ---
 
 ## 🚀 Outcome
-This notebook showcases:
+This notebook showcases:  
 ✔ Practical ML implementation capability  
 ✔ Strong evaluation mindset  
 ✔ Professional visualization approach  
