@@ -129,7 +129,7 @@ Includes:
 ---
 
 ## 🎯 Outcome
-This module reflects:
+This module reflects:  
 ✔ Strong understanding of unsupervised ML principles  
 ✔ Ability to derive insights without labeled data  
 ✔ Enterprise‑aligned analytical thinking  
