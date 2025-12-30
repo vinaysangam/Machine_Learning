@@ -17,8 +17,8 @@ This module focuses on **Classification** — predicting categorical outcomes us
 Classification
 │
 ├── Logistic_Regression
-├── SVM
-├── KNN
+├── Support_Vector_Machine
+├── K-Nearest_Neighbors
 ```
 More algorithms like Decision Trees, Random Forest, Naive Bayes, and Boosting models will be added in the future.
 
