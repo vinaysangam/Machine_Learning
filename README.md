@@ -107,8 +107,8 @@ Includes:
 ```
 Dimensionality_Reduction
 │
-├── PCA
-└── t-SNE (Planned)
+├── Principal_Component_Analysis
+└── t-SNE
 ```
 Focus areas:
 - Reducing high-dimensional feature space  

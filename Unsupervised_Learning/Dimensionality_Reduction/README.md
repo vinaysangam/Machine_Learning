@@ -33,7 +33,7 @@ This module demonstrates capability in:
 ```
 Dimensionality_Reduction
 │
-├── PCA
+├── Principal_Component_Analysis
 └── t-SNE
 ```
 
