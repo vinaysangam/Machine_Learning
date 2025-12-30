@@ -110,12 +110,12 @@ Includes:
 
 ---
 
-## ⏳ Time_Series (Ongoing)
+## ⏳ Time_Series (Planned)
 Focused on forecasting and temporal analytics.
 
 ---
 
-## 🧬 Deep_Learning (Planned & Expanding)
+## 🧬 Deep_Learning (Planned)
 Enterprise‑focused neural network learning track:
 
 - ANN on Keras  
@@ -150,7 +150,7 @@ Reinforcement Learning Exploration
 ---
 
 ## 🎯 Objective
-This repository reflects:
+This repository reflects:  
 ✔ Structured ML learning  
 ✔ Professional repository engineering  
 ✔ Practical implementation focus  
