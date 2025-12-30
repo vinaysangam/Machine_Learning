@@ -19,106 +19,117 @@ This repository represents a **structured, enterprise‑ready approach** to mast
 
 This module demonstrates capability in:
 - Understanding unsupervised learning concepts
-- Designing data-driven clustering & feature extraction workflows
-- Applying algorithms to real-world datasets
+- Designing clustering & feature extraction workflows
+- Applying algorithms on real‑world datasets
 - Evaluating and interpreting results meaningfully
 - Building scalable analytical thinking for enterprise use cases
 
 ---
 
-## 📂 Repository Structure (Current & Planned)
+## 📂 Repository Structure
 
 ```
 Unsupervised_Learning
 │
 ├── Clustering
 │   ├── K-Means
-│   ├── Hierarchical (Planned)
-│   ├── DBSCAN (Planned)
+│   ├── Hierarchical
+│   ├── DBSCAN
 │
 └── Dimensionality_Reduction
     ├── PCA
-    ├── t-SNE (Planned)
-    ├── UMAP (Planned)
+    ├── t-SNE
 ```
 
-Each section will progressively include:
+Each section includes:
 - Theory explanation with intuition
-- Clean and structured notebook implementations
+- Structured notebook implementations
 - Visualizations for interpretation
+- Evaluation where applicable
 - Business applicability notes
-- Learnings & observations
 
 ---
 
-## 🧠 Key Learning Themes
+## 🔷 Clustering
+Clustering enables grouping similar data points without predefined labels. It helps discover natural structure and meaningful segments in data.
 
-### 🔷 Clustering
-Understanding natural grouping patterns without human labels.
-
-- Customer segmentation
-- Pattern discovery
-- Group similarity modeling
-- Density & hierarchy-based learning
-
-Focus areas include:
-- Distance metrics & similarity understanding
-- Choosing appropriate cluster counts
-- Stability & interpretability
+### 📌 K-Means Clustering
+- Partition‑based algorithm
+- Requires predefined number of clusters (K)
+- Works best for spherical, evenly distributed clusters  
+Includes:
+- Elbow Method
+- Silhouette Score
+- Cluster visualization
+- Interpretation
 
 ---
 
-### 🔷 Dimensionality Reduction
-Techniques to simplify high‑dimensional data while retaining meaning.
+### 📌 Hierarchical Clustering
+- Builds clusters in a tree‑like structure (dendrogram)
+- No need to pre‑define K initially
+- Supports agglomerative clustering and linkage strategies  
+Includes:
+- Dendrogram analysis
+- Cluster visualization
+- Interpretation
 
-Used for:
-- Noise reduction
-- Feature compression
-- Visualization of complex datasets
-- Enhancing downstream ML performance
+---
 
-Focus areas include:
-- Variance preservation
-- Latent feature extraction
-- Visual storytelling using embeddings
+### 📌 DBSCAN Clustering
+- Density‑based clustering algorithm
+- Automatically detects number of clusters
+- Identifies noise and outliers
+- Handles arbitrarily shaped clusters  
+Includes:
+- eps & minPts exploration
+- Noise detection
+- Cluster separation visualization
+- Interpretation
+
+---
+
+## 🔶 Dimensionality Reduction
+
+Dimensionality reduction is essential for:
+- Handling high‑dimensional datasets
+- Reducing noise
+- Improving model performance
+- Enhancing visualization
+
+### 📌 PCA (Principal Component Analysis)
+- Linear dimensionality reduction
+- Maximizes variance representation
+- Identifies important feature directions  
+Includes:
+- Explained variance analysis
+- 2D / 3D PCA visualization
+- Interpretation & insights
+
+---
+
+### 📌 t‑SNE (t‑Distributed Stochastic Neighbor Embedding)
+- Non‑linear dimensionality reduction
+- Excellent for visualization
+- Preserves local neighbor relationships  
+Includes:
+- 2D embedding visualization
+- Cluster interpretability
+- Practical usage guidance
 
 ---
 
 ## 🛠️ Tech Stack
 - Python
-- Scikit‑learn
 - NumPy
 - Pandas
+- Scikit‑learn
 - Matplotlib / Seaborn
 
 ---
 
-## 🚀 Roadmap
-
-Upcoming enhancements include:
-
-### ✔ Clustering Expansion
-- Hierarchical Clustering
-- DBSCAN
-- Gaussian Mixture Models
-
-### ✔ Dimensionality Reduction Growth
-- Advanced PCA workflows
-- t‑SNE insights
-- UMAP exploration
-
-### ✔ Evaluation & Metrics
-- Silhouette Score
-- Davies–Bouldin
-- Calinski‑Harabasz
-- Cluster quality visual diagnostics
-
----
-
 ## 🎯 Outcome
-
 This module reflects:
-
 ✔ Strong understanding of unsupervised ML principles  
 ✔ Ability to derive insights without labeled data  
 ✔ Enterprise‑aligned analytical thinking  
@@ -128,7 +139,7 @@ This module reflects:
 
 ## 👤 Author
 **Vinay Sangam**  
-Data & AI Engineer
+_Data & AI Engineer_
 
 ---
 ⭐ Explore, learn, and feel free to star the repository!
