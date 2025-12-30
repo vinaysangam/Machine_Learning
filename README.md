@@ -1,51 +1,40 @@
-
 # 🤖 Machine Learning Portfolio Repository
 
-This repository serves as a **professional, structured, and enterprise‑grade Machine Learning portfolio**, combining theory, engineering discipline, experimentation, and continuous learning.
+This repository serves as a **professional, structured, and enterprise-grade Machine Learning portfolio**, combining theory, engineering discipline, experimentation, and continuous learning.
 
 The objective of this repository is to demonstrate:
-- Strong understanding of ML theory & application
-- Structured and scalable organization
-- Clean engineering practices
-- Real‑world datasets and problem‑solving mindset
-- Continuous evolution of ML capability
+
+- Strong understanding of ML theory & application  
+- Structured and scalable organization  
+- Clean engineering practices  
+- Real-world datasets and problem-solving mindset  
+- Continuous evolution of ML capability  
 
 ---
 
-## 📂 Repository Structure
-
----
-### 🔟 10_Days_of_ML
-A structured 10‑day learning sprint covering:
-- ML Foundations  
-- Regression & Classification concepts  
-- Model Evaluation & Tuning  
-- Tree‑based models  
-- Real dataset case study  
-- Final reflections  
-
-This represents disciplined learning progression and consistency.
+## 📂 Repository Structure  
 
 ---
 
-### 📊 Data_Analysis & Visualization
-Professional visualization and data‑understanding notebooks enabling:
-- Exploratory Data Analysis storytelling
-- Insight‑driven visualization
-- Matplotlib fundamentals and advanced plotting
+### 📊 Data_Analysis & Visualization  
+Professional visualization and data-understanding notebooks enabling:
+
+- Exploratory Data Analysis storytelling  
+- Insight-driven visualization  
+- Matplotlib fundamentals and advanced plotting  
 
 This section supports analytical thinking and communication of business insights.
 
 ---
 
-### 📈 Statistics
-Essential statistical foundations powering ML understanding and decision‑making.
+### 📈 Statistics  
+Essential statistical foundations powering ML understanding and decision-making.  
 Includes probability, distributions, statistical inference and interpretation.
 
 ---
 
-### 🐍 Python_Essentials_for_ML
-Core Python foundations purpose‑built to support ML work:
+### 🐍 Python_Essentials_for_ML  
+Core Python foundations purpose-built to support ML work:
 
 - Python Programming Basics  
 - Data Structures  
@@ -53,20 +42,18 @@ Core Python foundations purpose‑built to support ML work:
 - File Handling  
 - NumPy & Pandas  
 
-Ensures strong **coding readiness for ML engineering**.
+Ensures strong coding readiness for ML engineering.
 
 ---
 
-## ✅ Supervised_Learning
-
+## ✅ Supervised_Learning  
 Implementation of supervised learning techniques with strong emphasis on:
-- Theory understanding
-- Practical implementation
-- Evaluation discipline
-- Visual interpretation
-- Learning notes
 
----
+- Theory understanding  
+- Practical implementation  
+- Evaluation discipline  
+- Visual interpretation  
+- Learning notes  
 
 ### 📌 Regression
 ```
@@ -76,7 +63,6 @@ Regression
 ├── Multiple_Linear_Regression
 └── Polynomial_Regression
 ```
----
 
 ### 📌 Classification
 ```
@@ -88,25 +74,53 @@ Classification
 ```
 
 Each module includes:
-- Concept explanation
-- Professional Jupyter Notebooks
-- Visualizations & interpretation
-- Evaluation metrics
-- Learnings & observations
+
+- Concept explanation  
+- Professional Jupyter Notebooks  
+- Visualizations & interpretation  
+- Evaluation metrics  
+- Learnings & observations  
 
 ---
 
-## 🧠 Unsupervised_Learning
-A dedicated space for algorithms learning from **unlabeled data**, including:
+## 🧠 Unsupervised_Learning  
 
-- Clustering  
-- Dimensionality Reduction  
-- Pattern discovery & interpretation  
+A dedicated space for algorithms learning from **unlabeled data**, focusing on pattern discovery, structure understanding, and representation learning.
 
+### 📌 Clustering
+```
+Clustering
+│
+├── K-Means
+├── Hierarchical_Clustering
+└── (Planned) DBSCAN
+```
 Includes:
-- Theory explanation
-- Practical implementations
-- Business relevance & insights
+- Cluster formation and interpretation  
+- Evaluation using SSE & Silhouette Score  
+- Dendrogram-based hierarchy understanding  
+- Clear visualization-driven storytelling  
+
+---
+
+### 📌 Dimensionality_Reduction
+```
+Dimensionality_Reduction
+│
+├── PCA
+└── t-SNE (Planned)
+```
+Focus areas:
+- Reducing high-dimensional feature space  
+- Structure preservation  
+- Visual representation of complex datasets  
+
+---
+
+### Outcome Focus
+- Discover hidden structures  
+- Support segmentation analytics  
+- Enable pattern-driven business insights  
 
 ---
 
@@ -116,7 +130,7 @@ Focused on forecasting and temporal analytics.
 ---
 
 ## 🧬 Deep_Learning (Planned)
-Enterprise‑focused neural network learning track:
+Enterprise-focused neural network learning track:
 
 - ANN on Keras  
 - CNN  
@@ -125,8 +139,8 @@ Enterprise‑focused neural network learning track:
 
 ---
 
-## 🏗 Projects
-Professional end‑to‑end machine learning project implementations.
+## 🏗 Projects  
+Professional end-to-end machine learning project implementations.
 
 Currently available:
 ```
@@ -141,15 +155,16 @@ Projects
 ## 🚀 Roadmap
 This repository will continue evolving with:
 
-Supervised Learning Enhancements  
-Advanced Feature Engineering  
-Model Optimization & Explainability  
-More Real‑world ML Projects  
-Reinforcement Learning Exploration  
+- Supervised Learning Enhancements  
+- Advanced Feature Engineering  
+- Model Optimization & Explainability  
+- More Real-world ML Projects  
+- Reinforcement Learning Exploration  
 
 ---
 
 ## 🎯 Objective
+
 This repository reflects:  
 ✔ Structured ML learning  
 ✔ Professional repository engineering  
@@ -158,8 +173,9 @@ This repository reflects:
 
 ---
 
-## 👤 Author
+## 👤 Author  
 **Vinay Sangam**  
-Data & AI Engineer
+Data & AI Engineer  
 
+---
 ⭐ Feel free to explore, learn, and star the repository!
