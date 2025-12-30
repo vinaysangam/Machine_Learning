@@ -93,7 +93,7 @@ Clustering
 │
 ├── K-Means
 ├── Hierarchical_Clustering
-└── (Planned) DBSCAN
+└── DBSCAN
 ```
 Includes:
 - Cluster formation and interpretation  
