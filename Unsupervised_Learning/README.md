@@ -33,13 +33,12 @@ Unsupervised_Learning
 │
 ├── Clustering
 │   ├── K-Means
-│   ├── Hierarchical (Planned)
-│   ├── DBSCAN (Planned)
+│   ├── Hierarchical
+│   ├── DBSCAN
 │
 └── Dimensionality_Reduction
     ├── PCA
-    ├── t-SNE (Planned)
-    ├── UMAP (Planned)
+    ├── t-SNE
 ```
 
 Each section will progressively include:
