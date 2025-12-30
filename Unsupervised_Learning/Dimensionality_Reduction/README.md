@@ -101,7 +101,7 @@ Dimensionality Reduction supports:
 - NLP & Vision feature embeddings
 - Model optimization in enterprise pipelines
 
-It empowers:
+It empowers:  
 ✔ Better decisions  
 ✔ Faster analytics  
 ✔ Clearer insight communication  
