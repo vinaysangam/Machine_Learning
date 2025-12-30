@@ -28,5 +28,5 @@ Silhouette Score is used to measure cluster quality ensuring meaningful grouping
 - Corporate‑style explanation
 
 ## 👤 Author
-Vinay Sangam
+**Vinay Sangam**  
 Data & AI Engineer
