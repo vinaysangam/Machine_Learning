@@ -25,8 +25,8 @@ Supervised_Learning
 │
 └── Classification
     ├── Logistic_Regression
-    ├── SVM
-    ├── KNN
+    ├── Support_Vector_Machine
+    ├── K-Nearest_Neighbors
 ```
 Each section progressively includes:
 - Concept explanation
