@@ -142,7 +142,7 @@ This module represents **mature classification modeling**.
 ## 👤 Author
 
 **Vinay Sangam**  
-_Data & AI Engineer_
+Data & AI Engineer
 
 ---
 
